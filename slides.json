@@ -1,0 +1,1940 @@
+{
+  "title": "Leisure Travel Vans Unity",
+  "subtitle": "14 listings with likely driver assistance",
+  "date": "November 25, 2026",
+  "vans": [
+    {
+      "id": "01-cos-2023-rl",
+      "year": 2023,
+      "floorplan": "U24RL",
+      "condition": "Used",
+      "price": "$159,862",
+      "mileage": "17,055 miles",
+      "dealer": "Van City RV",
+      "city": "Colorado Springs, CO",
+      "distance": "~70 miles from Denver",
+      "url": "https://www.vancityrv.com/product/used-2023-leisure-travel-unity-u24rl-3768690-15",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": null,
+      "gallery_count": 52,
+      "photos": [
+        {
+          "src": "images/01-cos-2023-rl/01.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 36938
+        },
+        {
+          "src": "images/01-cos-2023-rl/02.webp",
+          "w": 800,
+          "h": 600,
+          "kind": "floorplan",
+          "orig_idx": 2,
+          "bytes": 15578
+        },
+        {
+          "src": "images/01-cos-2023-rl/03.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 44630
+        },
+        {
+          "src": "images/01-cos-2023-rl/04.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 30984
+        },
+        {
+          "src": "images/01-cos-2023-rl/05.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 40226
+        },
+        {
+          "src": "images/01-cos-2023-rl/06.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 33488
+        },
+        {
+          "src": "images/01-cos-2023-rl/07.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 35596
+        },
+        {
+          "src": "images/01-cos-2023-rl/08.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 34898
+        },
+        {
+          "src": "images/01-cos-2023-rl/09.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 41590
+        },
+        {
+          "src": "images/01-cos-2023-rl/10.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 46196
+        },
+        {
+          "src": "images/01-cos-2023-rl/11.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 53530
+        },
+        {
+          "src": "images/01-cos-2023-rl/12.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 29926
+        },
+        {
+          "src": "images/01-cos-2023-rl/13.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 27486
+        },
+        {
+          "src": "images/01-cos-2023-rl/14.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 29246
+        },
+        {
+          "src": "images/01-cos-2023-rl/15.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 17066
+        }
+      ],
+      "hero": "images/01-cos-2023-rl/01.webp"
+    },
+    {
+      "id": "02-cos-2026-tb",
+      "year": 2026,
+      "floorplan": "U24TB",
+      "condition": "New",
+      "price": "$231,120",
+      "mileage": "42 miles",
+      "dealer": "Van City RV",
+      "city": "Colorado Springs, CO",
+      "distance": "~70 miles from Denver",
+      "url": "https://www.vancityrv.com/product/new-2026-leisure-travel-unity-u24tb-2772694-15",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": null,
+      "gallery_count": 61,
+      "photos": [
+        {
+          "src": "images/02-cos-2026-tb/01.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 46918
+        },
+        {
+          "src": "images/02-cos-2026-tb/02.webp",
+          "w": 800,
+          "h": 600,
+          "kind": "floorplan",
+          "orig_idx": 2,
+          "bytes": 19886
+        },
+        {
+          "src": "images/02-cos-2026-tb/03.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 34450
+        },
+        {
+          "src": "images/02-cos-2026-tb/04.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 39110
+        },
+        {
+          "src": "images/02-cos-2026-tb/05.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 31984
+        },
+        {
+          "src": "images/02-cos-2026-tb/06.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 22162
+        },
+        {
+          "src": "images/02-cos-2026-tb/07.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 23406
+        },
+        {
+          "src": "images/02-cos-2026-tb/08.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 25050
+        },
+        {
+          "src": "images/02-cos-2026-tb/09.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 16106
+        },
+        {
+          "src": "images/02-cos-2026-tb/10.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 27142
+        },
+        {
+          "src": "images/02-cos-2026-tb/11.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 41892
+        },
+        {
+          "src": "images/02-cos-2026-tb/12.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 32270
+        },
+        {
+          "src": "images/02-cos-2026-tb/13.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 36538
+        },
+        {
+          "src": "images/02-cos-2026-tb/14.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 34832
+        },
+        {
+          "src": "images/02-cos-2026-tb/15.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 28128
+        }
+      ],
+      "hero": "images/02-cos-2026-tb/01.webp"
+    },
+    {
+      "id": "03-cos-2026-fx",
+      "year": 2026,
+      "floorplan": "U24FX",
+      "condition": "New",
+      "price": "$243,690",
+      "mileage": "23 miles",
+      "dealer": "Van City RV",
+      "city": "Colorado Springs, CO",
+      "distance": "~70 miles from Denver",
+      "url": "https://www.vancityrv.com/product/new-2026-leisure-travel-unity-u24fx-3504991-15",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": null,
+      "gallery_count": 54,
+      "photos": [
+        {
+          "src": "images/03-cos-2026-fx/01.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 50530
+        },
+        {
+          "src": "images/03-cos-2026-fx/02.webp",
+          "w": 800,
+          "h": 600,
+          "kind": "floorplan",
+          "orig_idx": 2,
+          "bytes": 13994
+        },
+        {
+          "src": "images/03-cos-2026-fx/03.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 37052
+        },
+        {
+          "src": "images/03-cos-2026-fx/04.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 36704
+        },
+        {
+          "src": "images/03-cos-2026-fx/05.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 44652
+        },
+        {
+          "src": "images/03-cos-2026-fx/06.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 33518
+        },
+        {
+          "src": "images/03-cos-2026-fx/07.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 37942
+        },
+        {
+          "src": "images/03-cos-2026-fx/08.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 46464
+        },
+        {
+          "src": "images/03-cos-2026-fx/09.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 15982
+        },
+        {
+          "src": "images/03-cos-2026-fx/10.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 55078
+        },
+        {
+          "src": "images/03-cos-2026-fx/11.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 27092
+        },
+        {
+          "src": "images/03-cos-2026-fx/12.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 46882
+        },
+        {
+          "src": "images/03-cos-2026-fx/13.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 32086
+        },
+        {
+          "src": "images/03-cos-2026-fx/14.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 40800
+        },
+        {
+          "src": "images/03-cos-2026-fx/15.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 30468
+        }
+      ],
+      "hero": "images/03-cos-2026-fx/01.webp"
+    },
+    {
+      "id": "04-cos-2027-tbx",
+      "year": 2027,
+      "floorplan": "U24TBX",
+      "condition": "New",
+      "price": "$269,010",
+      "mileage": "Mileage not listed",
+      "dealer": "Van City RV",
+      "city": "Colorado Springs, CO",
+      "distance": "~70 miles from Denver",
+      "url": "https://www.vancityrv.com/product/new-2027-leisure-travel-unity-u24tbx-3485710-15",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": "MSRP sheet on this listing shows Storm Grey / Sand and VIN W1X8N36Y5TN380852, while the listing text says Woodland / Sand. Confirm the sheet belongs to this van.",
+      "gallery_count": 57,
+      "photos": [
+        {
+          "src": "images/04-cos-2027-tbx/01.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 46422
+        },
+        {
+          "src": "images/04-cos-2027-tbx/02.webp",
+          "w": 800,
+          "h": 600,
+          "kind": "floorplan",
+          "orig_idx": 2,
+          "bytes": 19236
+        },
+        {
+          "src": "images/04-cos-2027-tbx/03.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 42318
+        },
+        {
+          "src": "images/04-cos-2027-tbx/04.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 43674
+        },
+        {
+          "src": "images/04-cos-2027-tbx/05.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 39860
+        },
+        {
+          "src": "images/04-cos-2027-tbx/06.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 38802
+        },
+        {
+          "src": "images/04-cos-2027-tbx/07.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 48030
+        },
+        {
+          "src": "images/04-cos-2027-tbx/08.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 44302
+        },
+        {
+          "src": "images/04-cos-2027-tbx/09.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 30948
+        },
+        {
+          "src": "images/04-cos-2027-tbx/10.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 31998
+        },
+        {
+          "src": "images/04-cos-2027-tbx/11.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 43108
+        },
+        {
+          "src": "images/04-cos-2027-tbx/12.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 54402
+        },
+        {
+          "src": "images/04-cos-2027-tbx/13.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 37452
+        },
+        {
+          "src": "images/04-cos-2027-tbx/14.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 31014
+        },
+        {
+          "src": "images/04-cos-2027-tbx/15.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 30614
+        }
+      ],
+      "hero": "images/04-cos-2027-tbx/01.webp"
+    },
+    {
+      "id": "05-abq-2020-mb",
+      "year": 2020,
+      "floorplan": "24MB",
+      "condition": "Used",
+      "price": "$128,523",
+      "mileage": "38,843 miles",
+      "dealer": "La Mesa RV",
+      "city": "Albuquerque, NM",
+      "distance": "~440 miles from Denver",
+      "url": "https://www.lamesarv.com/inventory/class-c/leisure-travel-vans/unity/ap228951",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": "Listing page does not name the assist features. Classification is from the 2020 LTV brochure.",
+      "gallery_count": 27,
+      "photos": [
+        {
+          "src": "images/05-abq-2020-mb/01.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 131098
+        },
+        {
+          "src": "images/05-abq-2020-mb/02.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 2,
+          "bytes": 155218
+        },
+        {
+          "src": "images/05-abq-2020-mb/03.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 89278
+        },
+        {
+          "src": "images/05-abq-2020-mb/04.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 89926
+        },
+        {
+          "src": "images/05-abq-2020-mb/05.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 77162
+        },
+        {
+          "src": "images/05-abq-2020-mb/06.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 93984
+        },
+        {
+          "src": "images/05-abq-2020-mb/07.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 85078
+        },
+        {
+          "src": "images/05-abq-2020-mb/08.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 93660
+        },
+        {
+          "src": "images/05-abq-2020-mb/09.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 195358
+        },
+        {
+          "src": "images/05-abq-2020-mb/10.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 124474
+        },
+        {
+          "src": "images/05-abq-2020-mb/11.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 124788
+        },
+        {
+          "src": "images/05-abq-2020-mb/12.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 182172
+        },
+        {
+          "src": "images/05-abq-2020-mb/13.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 158714
+        },
+        {
+          "src": "images/05-abq-2020-mb/14.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 95300
+        },
+        {
+          "src": "images/05-abq-2020-mb/15.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 100534
+        }
+      ],
+      "hero": "images/05-abq-2020-mb/01.webp"
+    },
+    {
+      "id": "06-lv-2020-mb",
+      "year": 2020,
+      "floorplan": "U24MB",
+      "condition": "Used",
+      "price": "$135,850",
+      "mileage": "64,689 miles",
+      "dealer": "Van City RV",
+      "city": "Las Vegas, NV",
+      "distance": "~750 miles from Denver",
+      "url": "https://www.vancityrv.com/product/used-2020-leisure-travel-unity-u24mb-3312625-15",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": null,
+      "gallery_count": 39,
+      "photos": [
+        {
+          "src": "images/06-lv-2020-mb/01.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 37676
+        },
+        {
+          "src": "images/06-lv-2020-mb/02.webp",
+          "w": 800,
+          "h": 356,
+          "kind": "floorplan",
+          "orig_idx": 2,
+          "bytes": 16554
+        },
+        {
+          "src": "images/06-lv-2020-mb/03.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 35920
+        },
+        {
+          "src": "images/06-lv-2020-mb/04.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 36390
+        },
+        {
+          "src": "images/06-lv-2020-mb/05.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 33202
+        },
+        {
+          "src": "images/06-lv-2020-mb/06.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 35174
+        },
+        {
+          "src": "images/06-lv-2020-mb/07.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 35364
+        },
+        {
+          "src": "images/06-lv-2020-mb/08.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 41740
+        },
+        {
+          "src": "images/06-lv-2020-mb/09.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 32678
+        },
+        {
+          "src": "images/06-lv-2020-mb/10.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 34406
+        },
+        {
+          "src": "images/06-lv-2020-mb/11.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 30744
+        },
+        {
+          "src": "images/06-lv-2020-mb/12.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 54652
+        },
+        {
+          "src": "images/06-lv-2020-mb/13.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 48632
+        },
+        {
+          "src": "images/06-lv-2020-mb/14.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 32740
+        },
+        {
+          "src": "images/06-lv-2020-mb/15.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 33668
+        }
+      ],
+      "hero": "images/06-lv-2020-mb/01.webp"
+    },
+    {
+      "id": "07-lv-2023-rl",
+      "year": 2023,
+      "floorplan": "U24RL",
+      "condition": "Used",
+      "price": "$175,000",
+      "mileage": "29,243 miles",
+      "dealer": "Van City RV",
+      "city": "Las Vegas, NV",
+      "distance": "~750 miles from Denver",
+      "url": "https://www.vancityrv.com/product/used-2023-leisure-travel-unity-u24rl-3567211-15",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": null,
+      "gallery_count": 37,
+      "photos": [
+        {
+          "src": "images/07-lv-2023-rl/01.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 35154
+        },
+        {
+          "src": "images/07-lv-2023-rl/02.webp",
+          "w": 800,
+          "h": 600,
+          "kind": "floorplan",
+          "orig_idx": 2,
+          "bytes": 15578
+        },
+        {
+          "src": "images/07-lv-2023-rl/03.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 36900
+        },
+        {
+          "src": "images/07-lv-2023-rl/04.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 36786
+        },
+        {
+          "src": "images/07-lv-2023-rl/05.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 30114
+        },
+        {
+          "src": "images/07-lv-2023-rl/06.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 37370
+        },
+        {
+          "src": "images/07-lv-2023-rl/07.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 34632
+        },
+        {
+          "src": "images/07-lv-2023-rl/08.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 43708
+        },
+        {
+          "src": "images/07-lv-2023-rl/09.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 37808
+        },
+        {
+          "src": "images/07-lv-2023-rl/10.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 15670
+        },
+        {
+          "src": "images/07-lv-2023-rl/11.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 37052
+        },
+        {
+          "src": "images/07-lv-2023-rl/12.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 38394
+        },
+        {
+          "src": "images/07-lv-2023-rl/13.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 35244
+        },
+        {
+          "src": "images/07-lv-2023-rl/14.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 30942
+        },
+        {
+          "src": "images/07-lv-2023-rl/15.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 22280
+        }
+      ],
+      "hero": "images/07-lv-2023-rl/01.webp"
+    },
+    {
+      "id": "08-lv-2027-tbx",
+      "year": 2027,
+      "floorplan": "U24TBX",
+      "condition": "New",
+      "price": "$269,420",
+      "mileage": "Mileage not listed",
+      "dealer": "Van City RV",
+      "city": "Las Vegas, NV",
+      "distance": "~750 miles from Denver",
+      "url": "https://www.vancityrv.com/product/new-2027-leisure-travel-unity-u24tbx-3177927-15",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": "MSRP sheet on this listing shows Canyon / Dune / Desert Shadow and VIN W1X8N36Y4TN376191, while the listing text says Carbon / Dove. Confirm the sheet belongs to this van.",
+      "gallery_count": 71,
+      "photos": [
+        {
+          "src": "images/08-lv-2027-tbx/01.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 36954
+        },
+        {
+          "src": "images/08-lv-2027-tbx/02.webp",
+          "w": 800,
+          "h": 600,
+          "kind": "floorplan",
+          "orig_idx": 2,
+          "bytes": 19236
+        },
+        {
+          "src": "images/08-lv-2027-tbx/03.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 29108
+        },
+        {
+          "src": "images/08-lv-2027-tbx/04.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 29470
+        },
+        {
+          "src": "images/08-lv-2027-tbx/05.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 27950
+        },
+        {
+          "src": "images/08-lv-2027-tbx/06.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 30444
+        },
+        {
+          "src": "images/08-lv-2027-tbx/07.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 33950
+        },
+        {
+          "src": "images/08-lv-2027-tbx/08.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 31374
+        },
+        {
+          "src": "images/08-lv-2027-tbx/09.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 28542
+        },
+        {
+          "src": "images/08-lv-2027-tbx/10.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 20506
+        },
+        {
+          "src": "images/08-lv-2027-tbx/11.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 47548
+        },
+        {
+          "src": "images/08-lv-2027-tbx/12.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 43614
+        },
+        {
+          "src": "images/08-lv-2027-tbx/13.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 53318
+        },
+        {
+          "src": "images/08-lv-2027-tbx/14.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 22936
+        },
+        {
+          "src": "images/08-lv-2027-tbx/15.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 16,
+          "bytes": 25136
+        }
+      ],
+      "hero": "images/08-lv-2027-tbx/01.webp"
+    },
+    {
+      "id": "09-az-2021-rl",
+      "year": 2021,
+      "floorplan": "U24RL",
+      "condition": "Used",
+      "price": "$133,398",
+      "mileage": "20,122 miles",
+      "dealer": "Camping World",
+      "city": "New River, AZ",
+      "distance": "~800 miles from Denver",
+      "url": "https://rv.campingworld.com/rv/2021-leisure-travel-unity-u24rl-2731514p-new-river-az",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": "Listing page does not name the assist features. Classification is from the 2021 LTV brochure.",
+      "gallery_count": 35,
+      "photos": [
+        {
+          "src": "images/09-az-2021-rl/01.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 101394
+        },
+        {
+          "src": "images/09-az-2021-rl/02.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 2,
+          "bytes": 63036
+        },
+        {
+          "src": "images/09-az-2021-rl/03.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 66690
+        },
+        {
+          "src": "images/09-az-2021-rl/04.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 106784
+        },
+        {
+          "src": "images/09-az-2021-rl/05.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 94618
+        },
+        {
+          "src": "images/09-az-2021-rl/06.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 82138
+        },
+        {
+          "src": "images/09-az-2021-rl/07.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 59106
+        },
+        {
+          "src": "images/09-az-2021-rl/08.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 57184
+        },
+        {
+          "src": "images/09-az-2021-rl/09.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 62636
+        },
+        {
+          "src": "images/09-az-2021-rl/10.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 89138
+        },
+        {
+          "src": "images/09-az-2021-rl/11.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 105774
+        },
+        {
+          "src": "images/09-az-2021-rl/12.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 52334
+        },
+        {
+          "src": "images/09-az-2021-rl/13.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 59788
+        },
+        {
+          "src": "images/09-az-2021-rl/14.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 50098
+        },
+        {
+          "src": "images/09-az-2021-rl/15.webp",
+          "w": 1000,
+          "h": 750,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 139368
+        }
+      ],
+      "hero": "images/09-az-2021-rl/01.webp"
+    },
+    {
+      "id": "10-nampa-2019-mb",
+      "year": 2019,
+      "floorplan": "24MB",
+      "condition": "Used",
+      "price": "$99,999",
+      "mileage": "56,136 miles",
+      "dealer": "Bretz RV",
+      "city": "Nampa, ID",
+      "distance": "~800 miles from Denver",
+      "url": "https://www.bretzrv.com/product/used-2019-leisure-travel-unity-24mb-3770121-13",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": "Listing says stock photos, not of this van. VIN year code is 2018 (WDAPF4CC1J9764482). Confirm the chassis has the 2019 assist features.",
+      "gallery_count": 28,
+      "photos": [
+        {
+          "src": "images/10-nampa-2019-mb/01.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 50330
+        },
+        {
+          "src": "images/10-nampa-2019-mb/02.webp",
+          "w": 800,
+          "h": 600,
+          "kind": "floorplan",
+          "orig_idx": 2,
+          "bytes": 16548
+        },
+        {
+          "src": "images/10-nampa-2019-mb/03.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 53538
+        },
+        {
+          "src": "images/10-nampa-2019-mb/04.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 49724
+        },
+        {
+          "src": "images/10-nampa-2019-mb/05.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 57506
+        },
+        {
+          "src": "images/10-nampa-2019-mb/06.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 68730
+        },
+        {
+          "src": "images/10-nampa-2019-mb/07.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 76424
+        },
+        {
+          "src": "images/10-nampa-2019-mb/08.webp",
+          "w": 1024,
+          "h": 767,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 76424
+        },
+        {
+          "src": "images/10-nampa-2019-mb/09.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 45358
+        },
+        {
+          "src": "images/10-nampa-2019-mb/10.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 37780
+        },
+        {
+          "src": "images/10-nampa-2019-mb/11.webp",
+          "w": 1024,
+          "h": 767,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 43366
+        },
+        {
+          "src": "images/10-nampa-2019-mb/12.webp",
+          "w": 1024,
+          "h": 767,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 34434
+        },
+        {
+          "src": "images/10-nampa-2019-mb/13.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 44518
+        },
+        {
+          "src": "images/10-nampa-2019-mb/14.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 41266
+        },
+        {
+          "src": "images/10-nampa-2019-mb/15.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 26876
+        }
+      ],
+      "hero": "images/10-nampa-2019-mb/01.webp"
+    },
+    {
+      "id": "11-phx-2024-mb",
+      "year": 2024,
+      "floorplan": "24MB",
+      "condition": "Used",
+      "price": "$173,488",
+      "mileage": "Mileage not listed",
+      "dealer": "La Mesa RecVan",
+      "city": "Phoenix, AZ",
+      "distance": "~830 miles from Denver",
+      "url": "https://truervs.com/listing/2024-leisure-travel-unity-24mb-20749",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": "Listing page does not name the assist features. Classification is from the 2024 LTV brochure.",
+      "gallery_count": 30,
+      "photos": [
+        {
+          "src": "images/11-phx-2024-mb/01.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 58042
+        },
+        {
+          "src": "images/11-phx-2024-mb/02.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 2,
+          "bytes": 42692
+        },
+        {
+          "src": "images/11-phx-2024-mb/03.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 47238
+        },
+        {
+          "src": "images/11-phx-2024-mb/04.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 41638
+        },
+        {
+          "src": "images/11-phx-2024-mb/05.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 30840
+        },
+        {
+          "src": "images/11-phx-2024-mb/06.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 30520
+        },
+        {
+          "src": "images/11-phx-2024-mb/07.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 25878
+        },
+        {
+          "src": "images/11-phx-2024-mb/08.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 33414
+        },
+        {
+          "src": "images/11-phx-2024-mb/09.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 31244
+        },
+        {
+          "src": "images/11-phx-2024-mb/10.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 31920
+        },
+        {
+          "src": "images/11-phx-2024-mb/11.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 21998
+        },
+        {
+          "src": "images/11-phx-2024-mb/12.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 37622
+        },
+        {
+          "src": "images/11-phx-2024-mb/13.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 23296
+        },
+        {
+          "src": "images/11-phx-2024-mb/14.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 25958
+        },
+        {
+          "src": "images/11-phx-2024-mb/15.webp",
+          "w": 900,
+          "h": 675,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 21056
+        }
+      ],
+      "hero": "images/11-phx-2024-mb/01.webp"
+    },
+    {
+      "id": "12-stl-2021-mb",
+      "year": 2021,
+      "floorplan": "U24MB",
+      "condition": "Used",
+      "price": "$134,767",
+      "mileage": "19,213 miles",
+      "dealer": "Van City RV",
+      "city": "St. Louis, MO",
+      "distance": "~850 miles from Denver",
+      "url": "https://www.vancityrv.com/product/used-2021-leisure-travel-unity-u24mb-3752473-15",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": null,
+      "gallery_count": 62,
+      "photos": [
+        {
+          "src": "images/12-stl-2021-mb/01.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 67436
+        },
+        {
+          "src": "images/12-stl-2021-mb/02.webp",
+          "w": 800,
+          "h": 368,
+          "kind": "floorplan",
+          "orig_idx": 2,
+          "bytes": 15872
+        },
+        {
+          "src": "images/12-stl-2021-mb/03.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 45744
+        },
+        {
+          "src": "images/12-stl-2021-mb/04.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 55610
+        },
+        {
+          "src": "images/12-stl-2021-mb/05.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 43312
+        },
+        {
+          "src": "images/12-stl-2021-mb/06.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 29010
+        },
+        {
+          "src": "images/12-stl-2021-mb/07.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 52718
+        },
+        {
+          "src": "images/12-stl-2021-mb/08.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 75550
+        },
+        {
+          "src": "images/12-stl-2021-mb/09.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 83082
+        },
+        {
+          "src": "images/12-stl-2021-mb/10.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 37870
+        },
+        {
+          "src": "images/12-stl-2021-mb/11.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 72030
+        },
+        {
+          "src": "images/12-stl-2021-mb/12.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 50290
+        },
+        {
+          "src": "images/12-stl-2021-mb/13.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 55688
+        },
+        {
+          "src": "images/12-stl-2021-mb/14.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 61894
+        },
+        {
+          "src": "images/12-stl-2021-mb/15.webp",
+          "w": 1024,
+          "h": 682,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 51188
+        }
+      ],
+      "hero": "images/12-stl-2021-mb/01.webp"
+    },
+    {
+      "id": "13-mn-2020-fx",
+      "year": 2020,
+      "floorplan": "U24FX",
+      "condition": "Used",
+      "price": "$114,995",
+      "mileage": "24,685 miles",
+      "dealer": "Hilltop Camper & RV",
+      "city": "Fridley, MN",
+      "distance": "~900 miles from Denver",
+      "url": "https://www.hilltopcamper.com/product/used-2020-leisure-travel-unity-u24fx-3770372-15",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": null,
+      "gallery_count": 20,
+      "photos": [
+        {
+          "src": "images/13-mn-2020-fx/01.webp",
+          "w": 800,
+          "h": 600,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 55898
+        },
+        {
+          "src": "images/13-mn-2020-fx/02.webp",
+          "w": 800,
+          "h": 368,
+          "kind": "floorplan",
+          "orig_idx": 2,
+          "bytes": 13998
+        },
+        {
+          "src": "images/13-mn-2020-fx/03.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 38132
+        },
+        {
+          "src": "images/13-mn-2020-fx/04.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 39498
+        },
+        {
+          "src": "images/13-mn-2020-fx/05.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 38288
+        },
+        {
+          "src": "images/13-mn-2020-fx/06.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 39020
+        },
+        {
+          "src": "images/13-mn-2020-fx/07.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 41930
+        },
+        {
+          "src": "images/13-mn-2020-fx/08.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 25936
+        },
+        {
+          "src": "images/13-mn-2020-fx/09.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 40050
+        },
+        {
+          "src": "images/13-mn-2020-fx/10.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 29992
+        },
+        {
+          "src": "images/13-mn-2020-fx/11.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 34894
+        },
+        {
+          "src": "images/13-mn-2020-fx/12.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 32486
+        },
+        {
+          "src": "images/13-mn-2020-fx/13.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 29036
+        },
+        {
+          "src": "images/13-mn-2020-fx/14.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 63020
+        },
+        {
+          "src": "images/13-mn-2020-fx/15.webp",
+          "w": 1024,
+          "h": 768,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 98556
+        }
+      ],
+      "hero": "images/13-mn-2020-fx/01.webp"
+    },
+    {
+      "id": "14-fl-2024-tb",
+      "year": 2024,
+      "floorplan": "U24TB",
+      "condition": "Used",
+      "price": "$199,963",
+      "mileage": "1 mile",
+      "dealer": "Optimum RV",
+      "city": "Titusville, FL",
+      "distance": "~1,800 miles from Denver",
+      "url": "https://www.optimumrv.com/florida/used/class-b-motorhome/2024-leisure-travel-unity-u24tb-for-sale-01",
+      "assist": "Adaptive cruise and lane keep likely. No lane centering confirmed.",
+      "caution": "Listing mentions adaptive cruise only in generic Unity copy.",
+      "gallery_count": 23,
+      "photos": [
+        {
+          "src": "images/14-fl-2024-tb/01.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 1,
+          "bytes": 221774
+        },
+        {
+          "src": "images/14-fl-2024-tb/02.webp",
+          "w": 800,
+          "h": 600,
+          "kind": "floorplan",
+          "orig_idx": 2,
+          "bytes": 21692
+        },
+        {
+          "src": "images/14-fl-2024-tb/03.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 3,
+          "bytes": 264050
+        },
+        {
+          "src": "images/14-fl-2024-tb/04.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 4,
+          "bytes": 179220
+        },
+        {
+          "src": "images/14-fl-2024-tb/05.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 5,
+          "bytes": 143850
+        },
+        {
+          "src": "images/14-fl-2024-tb/06.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 6,
+          "bytes": 191404
+        },
+        {
+          "src": "images/14-fl-2024-tb/07.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 7,
+          "bytes": 193762
+        },
+        {
+          "src": "images/14-fl-2024-tb/08.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 8,
+          "bytes": 104048
+        },
+        {
+          "src": "images/14-fl-2024-tb/09.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 9,
+          "bytes": 184386
+        },
+        {
+          "src": "images/14-fl-2024-tb/10.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 10,
+          "bytes": 210524
+        },
+        {
+          "src": "images/14-fl-2024-tb/11.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 11,
+          "bytes": 221856
+        },
+        {
+          "src": "images/14-fl-2024-tb/12.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 12,
+          "bytes": 186100
+        },
+        {
+          "src": "images/14-fl-2024-tb/13.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 13,
+          "bytes": 146482
+        },
+        {
+          "src": "images/14-fl-2024-tb/14.webp",
+          "w": 1600,
+          "h": 1199,
+          "kind": "photo",
+          "orig_idx": 14,
+          "bytes": 148560
+        },
+        {
+          "src": "images/14-fl-2024-tb/15.webp",
+          "w": 1600,
+          "h": 1200,
+          "kind": "photo",
+          "orig_idx": 15,
+          "bytes": 183906
+        }
+      ],
+      "hero": "images/14-fl-2024-tb/01.webp"
+    }
+  ],
+  "photo_total": 210
+}
